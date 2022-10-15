@@ -1,0 +1,15 @@
+D:\CODE\C#\NombreMystere\bin\Debug\net6.0\NombreMystere.exe
+D:\CODE\C#\NombreMystere\bin\Debug\net6.0\NombreMystere.deps.json
+D:\CODE\C#\NombreMystere\bin\Debug\net6.0\NombreMystere.runtimeconfig.json
+D:\CODE\C#\NombreMystere\bin\Debug\net6.0\NombreMystere.dll
+D:\CODE\C#\NombreMystere\bin\Debug\net6.0\NombreMystere.pdb
+D:\CODE\C#\NombreMystere\obj\Debug\net6.0\NombreMystere.csproj.AssemblyReference.cache
+D:\CODE\C#\NombreMystere\obj\Debug\net6.0\NombreMystere.GeneratedMSBuildEditorConfig.editorconfig
+D:\CODE\C#\NombreMystere\obj\Debug\net6.0\NombreMystere.AssemblyInfoInputs.cache
+D:\CODE\C#\NombreMystere\obj\Debug\net6.0\NombreMystere.AssemblyInfo.cs
+D:\CODE\C#\NombreMystere\obj\Debug\net6.0\NombreMystere.csproj.CoreCompileInputs.cache
+D:\CODE\C#\NombreMystere\obj\Debug\net6.0\NombreMystere.dll
+D:\CODE\C#\NombreMystere\obj\Debug\net6.0\refint\NombreMystere.dll
+D:\CODE\C#\NombreMystere\obj\Debug\net6.0\NombreMystere.pdb
+D:\CODE\C#\NombreMystere\obj\Debug\net6.0\NombreMystere.genruntimeconfig.cache
+D:\CODE\C#\NombreMystere\obj\Debug\net6.0\ref\NombreMystere.dll

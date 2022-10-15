@@ -1,0 +1,15 @@
+D:\code\C#\Part-One\bin\Debug\net6.0\Part-One.exe
+D:\code\C#\Part-One\bin\Debug\net6.0\Part-One.deps.json
+D:\code\C#\Part-One\bin\Debug\net6.0\Part-One.runtimeconfig.json
+D:\code\C#\Part-One\bin\Debug\net6.0\Part-One.dll
+D:\code\C#\Part-One\bin\Debug\net6.0\Part-One.pdb
+D:\code\C#\Part-One\obj\Debug\net6.0\Part-One.csproj.AssemblyReference.cache
+D:\code\C#\Part-One\obj\Debug\net6.0\Part-One.GeneratedMSBuildEditorConfig.editorconfig
+D:\code\C#\Part-One\obj\Debug\net6.0\Part-One.AssemblyInfoInputs.cache
+D:\code\C#\Part-One\obj\Debug\net6.0\Part-One.AssemblyInfo.cs
+D:\code\C#\Part-One\obj\Debug\net6.0\Part-One.csproj.CoreCompileInputs.cache
+D:\code\C#\Part-One\obj\Debug\net6.0\Part-One.dll
+D:\code\C#\Part-One\obj\Debug\net6.0\refint\Part-One.dll
+D:\code\C#\Part-One\obj\Debug\net6.0\Part-One.pdb
+D:\code\C#\Part-One\obj\Debug\net6.0\Part-One.genruntimeconfig.cache
+D:\code\C#\Part-One\obj\Debug\net6.0\ref\Part-One.dll
